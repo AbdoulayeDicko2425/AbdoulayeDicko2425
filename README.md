@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋,
 
 <!--
 **AbdoulayeDicko2425/AbdoulayeDicko2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Abdoulaye Dicko, I am from Central South University taking master in Biology.
+I am very interested in bioinformatics in general and genomic data analysis in particular. 
+
+- 🌱 I'm currently learning python 
+- 😄 Pronouns : Hi/Him
